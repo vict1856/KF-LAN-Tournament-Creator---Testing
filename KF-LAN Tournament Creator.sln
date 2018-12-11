@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.28010.2046
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KF-LAN Tournament Creator", "KF-LAN Tournament Creator\KF-LAN Tournament Creator.csproj", "{5FF60F1F-4BDB-4E2B-914C-3496D0C0CD0D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TournamentLibrary", "TournamentLibrary\TournamentLibrary.csproj", "{C4B882AA-35E9-4EC9-BA45-E9834CC328CD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{5FF60F1F-4BDB-4E2B-914C-3496D0C0CD0D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FF60F1F-4BDB-4E2B-914C-3496D0C0CD0D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FF60F1F-4BDB-4E2B-914C-3496D0C0CD0D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4B882AA-35E9-4EC9-BA45-E9834CC328CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4B882AA-35E9-4EC9-BA45-E9834CC328CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4B882AA-35E9-4EC9-BA45-E9834CC328CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4B882AA-35E9-4EC9-BA45-E9834CC328CD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

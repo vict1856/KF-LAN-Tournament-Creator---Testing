@@ -10,6 +10,8 @@ namespace KF_LAN_Tournament_Creator
     {
         static void Main(string[] args)
         {
+            Menu menu = new Menu();
+            menu.ShowMenu();
         }
     }
 }
