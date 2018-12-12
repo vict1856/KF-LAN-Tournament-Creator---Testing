@@ -8,6 +8,8 @@ namespace TournamentLibrary
     {
         private string name;
         List<Team> teams = new List<Team>();
+        List<Round> rounds = new List<Round>();
+
 
         public string Name
         {
@@ -24,6 +26,11 @@ namespace TournamentLibrary
         public void AddTeam(Team team)
         {
             teams.Add(team);
+        }
+
+        public void AddRound(Round round)
+        {
+            rounds.Add(round);
         }
     }
 }

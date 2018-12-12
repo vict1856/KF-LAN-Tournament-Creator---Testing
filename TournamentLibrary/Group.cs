@@ -4,7 +4,10 @@ using System.Text;
 
 namespace TournamentLibrary
 {
-    class Group
+    public class Group
     {
+        private List<Match> matches = new List<Match>();
+
+        private List<Team> teams = new List<Team>();
     }
 }

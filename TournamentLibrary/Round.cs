@@ -4,7 +4,8 @@ using System.Text;
 
 namespace TournamentLibrary
 {
-    class Round
+    public class Round
     {
+        private List<Group> groups = new List<Group>();
     }
 }
