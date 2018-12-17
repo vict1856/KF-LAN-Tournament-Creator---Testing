@@ -8,6 +8,7 @@ namespace TournamentLibrary
     {
         private Team teamOne;
         private Team teamTwo;
+        public string test;
 
         private Team winner;
 

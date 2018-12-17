@@ -16,6 +16,8 @@ namespace KF_LAN_Tournament_Creator
         {
             bool running = true;
 
+            
+
             do  //Loops forever until program is exited
             {
                 ShowOptions();  //Console.WriteLine that shows all options

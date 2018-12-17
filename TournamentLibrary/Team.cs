@@ -7,7 +7,7 @@ namespace TournamentLibrary
     public class Team
     {
         List<string> players = new List<string>();
-        public string teamName;
+        private string teamName;
 
         public string TeamName
         {
